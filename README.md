@@ -1,8 +1,10 @@
 
-Software Carpentry Workshop for
+Software Carpentry Workshop 
 ===============================
-EPSRC & MRC Centre for Doctoral Training in Regenerative Medicine, University of Manchester
-=========================================
+ University of Manchester
+================================
+
+####EPSRC & MRC Centre for Doctoral Training in Regenerative Medicine,
 
 ![Software Carpentry logo](http://software-carpentry.org/img/software-carpentry-banner.png "Software Carpentry logo")
 
